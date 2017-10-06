@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MayjorSystem</string>
+    <string-array name="Letters">
+        <item>S/X</item>
+        <item>T</item>
+        <item>N</item>
+        <item>M</item>
+        <item>R/Q</item>
+        <item>L</item>
+        <item>G</item>
+        <item>C/K</item>
+        <item>V/D/Đ</item>
+        <item>B/P</item>
+    </string-array>
+    <string name="title_activity_list_view_in_scroll_view">ListViewInScrollView</string>
+</resources>
